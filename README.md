@@ -9,9 +9,13 @@ This script is designed to preprocess and analyze article data stored in an Exce
 # Data Format
 
 Ensure that your article data is stored in an Excel file (articles.xlsx).
+
 article_id: Unique identifier for each article.
+
 source_id: Identifier for the source/publisher of the article.
+
 title: Title of the article.
+
 engagement_reaction_count: Number of reactions/engagements received on the article.
 
 # Installtion
